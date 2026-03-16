@@ -1,3 +1,22 @@
-title{
+h1{
+color: #fff3b0;
 text-align:center;
+font-size: 80px;
+}
+
+body{
+background-color: #335C67;
+}
+
+nav{
+text-align: center;
+background-color: #fff3b0;
+}
+a:
+p{
+color: #fff3b0;
+}
+
+a{
+color: #E09F3E;
 }
