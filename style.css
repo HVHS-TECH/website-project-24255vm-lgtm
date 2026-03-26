@@ -20,4 +20,11 @@ color: #fff3b0;
 
 a{
 color: #E09F3E;
+text-align: center;
+font-size: 40px;
+padding: 10px;
+}
+
+.container{
+ display: grid;
 }
