@@ -15,22 +15,30 @@ nav{
     text-align: center;
 }
 
+.navlink{
+    color: #E09F3E;
+    text-align: center;
+    font-size: 40px;
+    padding: 10px;
+    border: 2px solid #E09F3E;
+    border-radius: 5px;
+    background-color: #fff3b0;
+    }
+
+.mrbeasquid{
+align-items: center;
+}
+
+.footy{
+    padding: 10px;
+    font-size: 15px;
+    text-align: center;
+    color: #fff3b0;
+    font:bold;
+}
+
 p{
 color: #335C67;
 }
 
-a{
-color: #E09F3E;
-text-align: center;
-font-size: 40px;
-padding: 10px;
-border: 2px solid #E09F3E;
-border-radius: 5px;
-background-color: #fff3b0;
-}
 
-footer{
-    background-color: #fff3b0;
-    padding: 5px;
-    font-size: 25px;
-  }
