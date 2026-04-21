@@ -15,6 +15,10 @@ h2 {
   font-size: 40px;
 }
 
+h4{
+  color: #fff3b0 !important;
+}
+
 body {
   background-color: #335C67;
   font-family: Arial, Helvetica, sans-serif;
@@ -74,9 +78,9 @@ nav {
   background-color: #fff3b0;
 }
 
-.James{
+.Jimmy {
   display: block;
-  margin: auto;
+  margin :auto;
   width: 50%;
   height: 50%;
   padding: 10px;
